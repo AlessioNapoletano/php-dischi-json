@@ -16,7 +16,6 @@
 
 /* HEADER */
 header {
-    height: 7vh;
     padding: 1rem 7rem;
     background-color: var(--primary-bg-color);
 }
@@ -33,7 +32,6 @@ header {
 
 /* MAIN */
 main {
-    height: 93vh;
     background-color: var(--secondary-bg-color);
     color: var(--primary-text-color);
 }
